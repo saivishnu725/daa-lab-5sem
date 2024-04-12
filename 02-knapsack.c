@@ -47,7 +47,7 @@ int main() {
 
 		// predefined values
 		// // // // // // // // //							start
-		int val[] = {100, 60, 120};
+    int val[] = {100, 60, 120};
     int wt[] = {5, 10, 30};
     int W = 50;
     int n = sizeof(val) / sizeof(val[0]);

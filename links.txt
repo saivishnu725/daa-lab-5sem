@@ -1,4 +1,11 @@
-Github:  https://github.com/saivishnu725/daa-lab-5sem.git
-0/1 Knapsack: https://chat.openai.com/share/3d4240ab-2bdc-4db6-b426-7e20d3e4b925
-MinMax: https://chat.openai.com/share/1f9a37ab-8d37-43d1-8fac-4b8b1f14bdc6
+Github
+		1. https://github.com/saivishnu725/daa-lab-5sem.git
+
+0/1 Knapsack
+		1. https://chat.openai.com/share/3d4240ab-2bdc-4db6-b426-7e20d3e4b925
+		2. https://youtu.be/zRza99HPvkQ
+		3. https://youtu.be/nLmhmB6NzcM
+
+MinMax
+		1. https://chat.openai.com/share/1f9a37ab-8d37-43d1-8fac-4b8b1f14bdc6
 

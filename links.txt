@@ -9,3 +9,9 @@ Github
 MinMax
 		1. https://chat.openai.com/share/1f9a37ab-8d37-43d1-8fac-4b8b1f14bdc6
 
+Adjacency Matrix
+		1. https://chat.openai.com/share/df24bf95-261f-458a-9dbe-cfc783f8f281
+
+Sum of Subsets
+		1. https://chat.openai.com/share/69f0c77d-8abe-4643-afbc-219517c15bdd
+

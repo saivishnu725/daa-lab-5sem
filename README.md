@@ -7,6 +7,20 @@ All the lab programs from the 5sem syllabus. They are my versions of the program
 1. C Compiler (preferably gcc)
 2. bash shell
 
+## Program list
+
+Part A:
+1. Selection Sort
+2. 0/1 Knapsack
+3. Min & Max values
+4. Quick Sort
+
+Part B:
+1. Adjacency Matrix of a Graph
+2. Sum of Subsets
+3. Job Sequencing
+4. Optimal Binary Search Tree
+
 ## Usage
 
 1. Clone the repository
@@ -48,16 +62,4 @@ All the lab programs from the 5sem syllabus. They are my versions of the program
 
 [GNU General Public License v2.0](https://choosealicense.com/licenses/gpl-2.0/)
 
-## Program list
 
-Part A:
-1. Selection Sort
-2. 0/1 Knapsack
-3. Min & Max values
-4. Quick Sort
-
-Part B:
-1. Adjacency Matrix of a Graph
-2. Sum of Subsets
-3. Job Sequencing
-4. Optimal Binary Search Tree

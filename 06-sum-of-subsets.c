@@ -3,7 +3,7 @@
 
 void display(int A[], int size) {
     for (int i = 0; i < size; i++)
-        printf("%*d", 5, A[i]);
+        printf("%*d", 3, A[i]);
     printf("\n");
 }
 
@@ -30,13 +30,13 @@ int main() {
     int set[] = {1, 2, 3, 4};
     int size = sizeof(set) / sizeof(set[0]);
     
-    printf("The set: ");
+    printf("Set: ");
     display(set, size);
     
     int given_sum = 7;
     printf("Given sum: %d\n", given_sum);
-    
-    printf("The subsets:\n");
+
+    printf("Subsets:\n");
     generateSubsets(set, size, given_sum);
     
     return 0;

@@ -20,12 +20,8 @@ void sort(int a[], int n) {
 						if(a[j] < a[min])
 								min = j;
 				}
-				if(min != i) {
-						int temp = a[i];
-						a[i] = a[min];
-						a[min] = temp;
-				}
-						//swap(&a[min], &a[i]);
+				if(min != i)
+						swap(&a[min], &a[i]);
 		}
 }
 

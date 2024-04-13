@@ -25,7 +25,8 @@ int main() {
 			printf("Invalid Vertex!\n");
 			i--;
 		} else
-			adj[destin][origin] = 1;
+		 adj[destin][origin] = 1;
+   adj[origin][destin] = 1;
 	}
 
 	printf("\nAdjacency matrix: \n");
